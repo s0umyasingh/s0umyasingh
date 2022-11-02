@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s0umyasingh
-- 👀 I’m interested in 3rd year in makaut persuing B.Tech in Information technology
+- 👀 I’m interested in DSA ,web development, game development, Artificial intelligence and macchine Learning.
 - 🌱 I’m currently learning Web Development and DSA
 - 📫 How to reach : Email me - @soumyasingh.it.makaut@gmail.com
 
